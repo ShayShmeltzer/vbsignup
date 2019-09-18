@@ -11,6 +11,8 @@ Listed below are the steps to get started with Visual Builder in Oracle cloud. T
 # Signup for Oracle Cloud Trial
 
 ### Step 1 : Navigate to [https://cloud.oracle.com](https://cloud.oracle.com)
+Click the "Oracle Cloud Free Tier" link at the top right.
+In the next step click the "Start for Free" button
 
 ![img](assets/image2019-9-12_10-21-42.png)
 
@@ -46,7 +48,7 @@ Listed below are the steps to get started with Visual Builder in Oracle cloud. T
 
 ### Step 1: Navigate to : [https://cloud.oracle.com](https://cloud.oracle.com/) and click sign in
 
-You should be presented with the following screen. Input the cloud account name that you created your cloud account under and click next.
+At the top right menu click the little person in a square icon and choose **Sign in to cloud**
 
 ![img](assets/image2019-9-12_10-33-21.png)
 
